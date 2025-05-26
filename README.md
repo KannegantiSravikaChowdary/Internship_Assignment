@@ -71,5 +71,5 @@ Write a Python script that models a Mobius strip using parametric equations and 
 
 ## About 
 
-This project was developed as part of a task assigned during the *internship evaluation process by Karkhana.io*. It involves modeling a Möbius strip using parametric equations, computing surface area and edge length numerically, and visualizing the structure in 3D using Python, NumPy, and Matplotlib.
+This project was developed as part of a task assigned during the *internship evaluation process by Karkhana.io*. It involves modeling a Mobius strip using parametric equations, computing surface area and edge length numerically, and visualizing the structure in 3D using Python, NumPy, and Matplotlib.
 
