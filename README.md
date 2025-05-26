@@ -36,9 +36,8 @@ Write a Python script that models a Mobius strip using parametric equations and 
       z(u,v)=v⋅sin⁡(u2)
    
       Where:
-       . u∈[0,2π]
-   
-       . v∈[−w/2,w/2]
+            . u∈[0,2π]
+            . v∈[−w/2,w/2]
 
 ## Solution Overview 
 
