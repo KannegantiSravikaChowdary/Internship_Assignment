@@ -37,6 +37,7 @@ Write a Python script that models a Mobius strip using parametric equations and 
    
       Where:
        . u∈[0,2π]
+   
        . v∈[−w/2,w/2]
 
 ## Solution Overview 
