@@ -4,15 +4,25 @@
 Write a Python script that models a Mobius strip using parametric equations and computes key geometric properties.
 
 1. Requirements
-Define a MobiusStrip class that:
+
+Define a MobiusStrip class that
+
 Accepts:
-. Radius R (distance from the center to the strip)
-. Width w (strip width)
-. Resolution n (number of points in the mesh)
+
+Radius (distance from the center to the strip)
+
+Width (strip width)
+
+Resolution (number of points in the mesh)
+
+
 Computes:
-. A 3D mesh/grid of (x, y, z) points on the surface
-. Surface area (numerically, using integration or approximation)
-. Edge length (numerically along the boundary)
+
+A 3D mesh/grid of (x, y, z) points on the surface
+
+Surface area (numerically, using integration or approximation)
+
+Edge length (numerically along the boundary)
 
 2. Parametric Equation of Mobius Strip
 Use the parametric equations:
