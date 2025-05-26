@@ -9,26 +9,31 @@ Define a MobiusStrip class that
 
 Accepts:
 
-Radius (distance from the center to the strip)
+. Radius (distance from the center to the strip)
 
-Width (strip width)
+. Width (strip width)
 
-Resolution (number of points in the mesh)
+. Resolution (number of points in the mesh)
 
 
 Computes:
 
-A 3D mesh/grid of (x, y, z) points on the surface
+. A 3D mesh/grid of (x, y, z) points on the surface
 
-Surface area (numerically, using integration or approximation)
+. Surface area (numerically, using integration or approximation)
 
-Edge length (numerically along the boundary)
+. Edge length (numerically along the boundary)
 
 2. Parametric Equation of Mobius Strip
+   
 Use the parametric equations:
+
    x(u,v)=(R+v⋅cos⁡(u2))⋅cos⁡(u)
+   
    y(u,v)=(R+v⋅cos⁡(u2))⋅sin⁡(u)
+   
    z(u,v)=v⋅sin⁡(u2)
+   
 Where:
  . u∈[0,2π]
  . v∈[−w/2,w/2]
