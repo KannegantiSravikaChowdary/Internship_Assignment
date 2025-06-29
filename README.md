@@ -68,8 +68,11 @@ Write a Python script that models a Mobius strip using parametric equations and 
 🌐 Online
 View the interactive Streamlit App here:
 🔗 https://internshipassignment-bhxhvbg2schfjvydxkvpb4.streamlit.app/
+
 Inputs: radius, width, resolution
+
 Live visualization
+
 Realtime surface area & edge length
 
 ## Files  
