@@ -63,11 +63,19 @@ Write a Python script that models a Mobius strip using parametric equations and 
 ## Output  
 - Surface Area ≈  0.0001 
 - Edge Length ≈  6.3150
-- 3D plot displayed in a window  
+- 3D plot displayed in a window
+
+🌐 Online
+View the interactive Streamlit App here:
+🔗 https://internshipassignment-bhxhvbg2schfjvydxkvpb4.streamlit.app/
+Inputs: radius, width, resolution
+Live visualization
+Realtime surface area & edge length
 
 ## Files  
 - mobius_strip.py — Python script implementing the solution
 - mobius_plot.py - Screenshot/image of the 3D Mobius Strip Visualization
+- app.py - Streamlit interface for web publishing
 
 ## About 
 
